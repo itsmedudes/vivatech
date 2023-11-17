@@ -33,7 +33,7 @@ Update the port number, username and password as per your local database config.
 
 
 * `POST /users` : Register ( Create New Account ) 
-* `POST /verifyotp` : Verification ( verified via OTP) 
+* `POST /verifyotp` : Verification ( verify via OTP) 
 * `POST /login`: Login ( Login a user ) 
 
 ### Sample API Response
