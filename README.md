@@ -22,7 +22,9 @@ Update the port number, username and password as per your local database config.
 ## API Root Endpoint
 
 `https://localhost:8888/user`
+
 `https://localhost:8888/verifyotp`
+
 `https://localhost:8888/login`
 
 ## API Module Endpoints
