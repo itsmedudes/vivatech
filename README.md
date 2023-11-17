@@ -55,7 +55,7 @@ Response Body
   "otp":"251236"
 }
 ```
-
+-----
 Request Body for OTP Verification
 
 ```
@@ -72,7 +72,7 @@ Response Body
     "message":"Successfully Verified"
 }
 ```
-
+-----
 Request Body for Login
 
 ```
